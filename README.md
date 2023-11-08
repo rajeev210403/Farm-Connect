@@ -69,6 +69,17 @@ We made our app adaptable , where new information, govt schemes, techniques etc.
 - ![Alt text](image-4.png)
 
 
+## Team Members:
+
+| S.No. | Name | Role | GitHub Username:octocat: |
+| --------------- | --------------- | --------------- | --------------- |
+| 1. | Ansh Anand | Backend Development| [@HonestFreak](https://www.github.com/HonestFreak)  |
+| 2. | Thota Rajeev | Frontend Development | [@rajeev210403](https://github.com/rajeev210403) |
+| 3. | Karthik Prasad S | Backend Development | [@karthikprasads](https://github.com/karthikprasads) |
+| 4. | Nithin Chepuri | Frontend Development| [@NithinChepuri](https://github.com/NithinChepuri) |
+| 5. | Sai Vignesh | Frontend Development | [@SaiVignesh-K](https://github.com/SaiVignesh-K)  |
+
+
 ## License
 
 The Project is Opensource. Feel free to use or modify the code.
